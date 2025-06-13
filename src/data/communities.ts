@@ -34,4 +34,15 @@ export const communities: Community[] = [
     country: 'República Dominicana',
     city: 'Santo Domingo',
   },
+  {
+    id: 'club-satoshi',
+    title: 'Club Satoshi',
+    description:
+      'Club Satoshi es la primera comunidad Bitcoiner en Tucumán, Argentina.',
+    link: 'https://clubsatoshi.notion.site/Club-Satoshi-1500936c4df4808092efe527e111d2c8',
+    latitude: -26.83310699095773,
+    longitude: -65.2037445223768,
+    country: 'Argentina',
+    city: 'Tucumán',
+  },
 ];
