@@ -45,4 +45,15 @@ export const communities: Community[] = [
     country: 'Argentina',
     city: 'Tucumán',
   },
+  {
+    id: 'cuba-bitcoin',
+    title: 'Cuba Bitcoin',
+    description:
+      'Comunidad Bitcoin Only en Cuba. Educación, meetups, debates en nuestra Patria sobre Bitcoin.',
+    link: 'https://cubabitcoin.org/',
+    latitude: 23.129991782640744, 
+    longitude: -82.34170792430879,
+    country: 'Cuba',
+    city: 'La Habana',
+  },
 ];
