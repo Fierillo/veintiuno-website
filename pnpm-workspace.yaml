@@ -1,0 +1,16 @@
+packages:
+  - '.'
+
+minimumReleaseAge: 4320
+minimumReleaseAgeStrict: true
+minimumReleaseAgeIgnoreMissingTime: false
+trustPolicy: no-downgrade
+trustPolicyIgnoreAfter: 4320
+trustPolicyExclude:
+  - 'vite@5.4.21'
+trustLockfile: false
+blockExoticSubdeps: true
+strictDepBuilds: true
+allowBuilds:
+  esbuild: true
+  secp256k1: true
